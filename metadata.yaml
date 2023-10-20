@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '53304'
     url: http://www.gutenberg.org/2009/agents/53304
     wikipedia: https://en.wikipedia.org/wiki/Rosa_C._Petherick
+covers:
+- cover_type: archival
+  image_path: 71825-h/images/cover.jpg
 creator:
   author:
     agent_name: Findlater, Jane Helen
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34362
     wikipedia: https://en.wikipedia.org/wiki/Jane_Findlater
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71825#All-that-happened-in-a-week-b-A-story-for-little-children
 gutenberg_issued: '2023-10-07'
 identifiers:
   gutenberg: '71825'
